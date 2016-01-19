@@ -6,4 +6,4 @@
 # Run the teamspeak server
 export LD_LIBRARY_PATH=/opt/teamspeak
 cd /opt/teamspeak
-./ts3server_linux_amd64 logpath=/data/logs/ dbsqlpath=/data/ dbsqlcreatepath=/data/
+./ts3server_linux_amd64 logpath=/data/logs/ dbsqlpath=/data/
